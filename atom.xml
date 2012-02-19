@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://MicTech.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://MicTech.github.com/blog/"/>
+  <updated>2012-02-19T14:49:57+01:00</updated>
+  <id>http://MicTech.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
