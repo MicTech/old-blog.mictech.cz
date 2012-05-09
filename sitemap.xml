@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://blog.mictech.cz/blog/2012/05/09/infrastructurer/</loc>
+        <lastmod>2012-05-09T22:51:50+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.mictech.cz/blog/archives/</loc>
-        <lastmod>2012-02-19T14:49:48+01:00</lastmod>
+        <lastmod>2012-05-09T22:51:50+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.mictech.cz/git-resources/</loc>
-        <lastmod>2012-03-10T22:41:58+01:00</lastmod>
+        <lastmod>2012-03-10T22:42:36+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.mictech.cz/</loc>
-        <lastmod>2012-02-19T14:49:48+01:00</lastmod>
+        <lastmod>2012-05-09T22:51:50+02:00</lastmod>
     </url>
 </urlset>

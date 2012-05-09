@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[MicTech's Blog]]></title>
-  <link href="http://blog.mictech.cz/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ideas | MicTech's Blog]]></title>
+  <link href="http://blog.mictech.cz/blog/categories/ideas/atom.xml" rel="self"/>
   <link href="http://blog.mictech.cz/"/>
   <updated>2012-05-09T22:54:04+02:00</updated>
   <id>http://blog.mictech.cz/</id>
@@ -24,7 +24,7 @@
 
 <p>Před pár měsíci, jsem pouze ze srandy napsal na twitter, aby Borek Bernard udělal startup, který bude startupům pomáhat s infrastruktůrou.</p>
 
-<blockquote class="twitter-tweet" data-in-reply-to="166818518896099329"><p>@<a href="https://twitter.com/borekb">borekb</a> Naber ještě @<a href="https://twitter.com/alesroubicek">alesroubicek</a> a udělejte startup na konzultace pro startupy &#8220;Jak správně vybudovat infrastrukturu pro startup&#8221; :)</p>&mdash; Michal Těhník (@MicTech) <a href="https://twitter.com/MicTech/status/167554095077531649" data-datetime="2012-02-09T10:23:03+00:00">February 9, 2012</a></blockquote>
+<blockquote class="twitter-tweet" data-in-reply-to="166818518896099329"><p>@<a href="https://twitter.com/borekb">borekb</a> Naber ještě @<a href="https://twitter.com/alesroubicek">alesroubicek</a> a udělejte startup na konzultace pro startupy "Jak správně vybudovat infrastrukturu pro startup" :)</p>&mdash; Michal Těhník (@MicTech) <a href="https://twitter.com/MicTech/status/167554095077531649" data-datetime="2012-02-09T10:23:03+00:00">February 9, 2012</a></blockquote>
 
 
 <script src="http://blog.mictech.cz//platform.twitter.com/widgets.js" charset="utf-8"></script>
