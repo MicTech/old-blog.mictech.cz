@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: events | MicTech's Blog]]></title>
+  <link href="http://blog.mictech.cz/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://blog.mictech.cz/"/>
+  <updated>2012-09-20T14:20:17+02:00</updated>
+  <id>http://blog.mictech.cz/</id>
+  <author>
+    <name><![CDATA[Michal Těhník]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kde se budu vyskytovat na WebExpu]]></title>
+    <link href="http://blog.mictech.cz/blog/2012/09/20/kde-se-budu-vyskytovat-na-webexpu/"/>
+    <updated>2012-09-20T14:13:00+02:00</updated>
+    <id>http://blog.mictech.cz/blog/2012/09/20/kde-se-budu-vyskytovat-na-webexpu</id>
+    <content type="html"><![CDATA[<h4>Kam se určitě půjdu podívat</h4>
+
+<p>Po dvou letech mám zase pocit, že vývojáři na WebExpu nehrají páté kolo u vozu a přednášky pro ně tentokrát vypadají hodně našlápnutě. Uvidíme, jaká bude realita.</p>
+
+<p>Na následující přednášky mám v plánu se jít určitě podívat a osobně je všem vývojářům doporučuju.</p>
+
+<p>TIP: Choďte na přednášky o tématech, kterým nerozumíte.</p>
+
+<h3>Pátek</h3>
+
+<h5>Ano, Chefe - DEV - 10:00</h5>
+
+<ul>
+<li>Chodit na přednášky od Karla Minaříka, je jak chodit na filmy od oblíbeného režiséra. O Chefu toho vím hodně. Viděl jsem už i jednu přednášku přímo od Karla, ale stejně si tuhle přednášku nenechám ujít.</li>
+<li>Jak padlo na after party minulého WebExpa. Karel je člověk, který přivede neznámou technologii a brutálně jí zpropaguje na WebExpu (Rails, Git, Elastic).</li>
+</ul>
+
+
+<h5>Redis v realném světě - DEV - 11:00</h5>
+
+<ul>
+<li>Mnou dlouho opomíjená záležitost. Očekávám úvod do Redisu a na to, že se na něj v budoucnu kouknu podrobněji.</li>
+</ul>
+
+
+<h5>Return On Investment na webu - BIZ - 13:30</h5>
+
+<ul>
+<li>Sem mířím hlavně podpořit Vojtu a konečně se dozvědět cože to dělají v Keboole.</li>
+</ul>
+
+
+<h5>TDD Outside In - DEV - 15:00</h5>
+
+<ul>
+<li>Kamarád Dan Kolman ukáže, jak se dělá TDD a doufám, že to bude jedna z náročnějších přednášek. Ne nějaká 101.</li>
+</ul>
+
+
+<h5>Jak (ne)dělat API - DEV - 17:00</h5>
+
+<ul>
+<li>S apiary.io jsem si chvíli hrál a zkoušel. Tudíž přednáška o API od těch nejpovolanějších.</li>
+</ul>
+
+
+<h5>Handing Students the Steering Wheel - DEV - 17:30</h5>
+
+<ul>
+<li>V Khan Academy a jeho konceptu vzdělávání vidím budoucnost a proto mě zajímá, jak se taková budoucnost dělá.</li>
+</ul>
+
+
+<h3>Sobota</h3>
+
+<h5>Buď punkový kozument - GFX - 10:40</h5>
+
+<ul>
+<li>Richard Fridrich je další ze skvělích řečníků. Jelikož se začínám trochu zajímat o behavioral economics, tak je takhle přednáška jasnou volbou.</li>
+</ul>
+
+
+<h5>Do Ameriky - BIZ - 13:00</h5>
+
+<ul>
+<li>S Petrem Olmerem jsem slyšel poslední CZPodcast - http://java.cz/article/czpodcast-67-big-data-a-bi - a Petr mě přesvědčil, že má o čem povídat.</li>
+</ul>
+
+
+<h5>Node.js: zápisky z fronty - DEV - 14:00</h5>
+
+<ul>
+<li>Další přednáška z dílny apiary.io. Těším se na zkušenosti z realného použití node.js v praxi.</li>
+</ul>
+
+
+<h5>Úvod do grafové databáze Neo4j - DEV - 15:00</h5>
+
+<ul>
+<li>Část Michalovi přednášky jsem už viděl v rámci feedback semináře pro přednášející. Michal přednášet umí a hlavně rozumí tomu o čem mluví, takže doporučuju.</li>
+</ul>
+
+
+<h3>Kam rozhodně nechoďte</h3>
+
+<h5>Nepoužívejte GIT jako SVN</h5>
+
+<ul>
+<li>Je to tři roky od první přednášky o GITu na WebExpu a pořád někdo řeší toto tisickrát vyřešené téma?</li>
+</ul>
+
+
+<h5>Ekosystém. Tak se tvoří weby!</h5>
+
+<ul>
+<li>Ruby on Rails byli na prvním WebExpu a opravdu existuje v roce 2012 někdo, kdo nevyzkoušel tenhle framework?</li>
+</ul>
+
+
+<h5>Souboj frameworků</h5>
+
+<ul>
+<li>Přednáška pro všechny co nedělají produkty, ale porovnávají si pindíky :)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
