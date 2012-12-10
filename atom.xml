@@ -4,7 +4,7 @@
   <title><![CDATA[MicTech's Blog]]></title>
   <link href="http://blog.mictech.cz/atom.xml" rel="self"/>
   <link href="http://blog.mictech.cz/"/>
-  <updated>2012-12-10T21:46:11+01:00</updated>
+  <updated>2012-12-10T21:49:00+01:00</updated>
   <id>http://blog.mictech.cz/</id>
   <author>
     <name><![CDATA[Michal Těhník]]></name>
@@ -14,15 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Correspondence Coderetreat]]></title>
+    <title type="html"><![CDATA[Korespondeční Coderetreat]]></title>
     <link href="http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat/"/>
     <updated>2012-12-10T21:28:00+01:00</updated>
     <id>http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat</id>
-    <content type="html"><![CDATA[<h3>Korespondeční Coderetreat</h3>
-
-<hr />
-
-<p>V průběhu sobotního Coderetreatu mě napadla varianta cvičení pro programátory. Jednalo by se o takzvaný korespondeční Coderetreat / TDD Ping Pong.</p>
+    <content type="html"><![CDATA[<p>V průběhu sobotního Coderetreatu mě napadla varianta cvičení pro programátory. Jednalo by se o takzvaný korespondeční Coderetreat / TDD Ping Pong.</p>
 
 <p>TDD Ping Pong je založený na tom, že programátoři se v páru střídají v psaní kódu. Jeden napíše implementaci a padající test, ten druhů napíše implementaci pro test a další padající test. A takto stále dokola.</p>
 
