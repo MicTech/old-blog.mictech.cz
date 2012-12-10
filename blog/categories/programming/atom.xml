@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | MicTech's Blog]]></title>
   <link href="http://blog.mictech.cz/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://blog.mictech.cz/"/>
-  <updated>2012-12-10T21:49:57+01:00</updated>
+  <updated>2012-12-10T22:00:45+01:00</updated>
   <id>http://blog.mictech.cz/</id>
   <author>
     <name><![CDATA[Michal Těhník]]></name>
@@ -14,15 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Korespondeční Coderetreat]]></title>
+    <title type="html"><![CDATA[Korespondenční Coderetreat]]></title>
     <link href="http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat/"/>
     <updated>2012-12-10T21:28:00+01:00</updated>
     <id>http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat</id>
-    <content type="html"><![CDATA[<p>V průběhu sobotního Coderetreatu mě napadla varianta cvičení pro programátory. Jednalo by se o takzvaný korespondeční Coderetreat / TDD Ping Pong.</p>
+    <content type="html"><![CDATA[<p>V průběhu sobotního Coderetreatu mě napadla varianta cvičení pro programátory. Jednalo by se o takzvaný korespondenční Coderetreat / TDD Ping Pong.</p>
 
 <p>TDD Ping Pong je založený na tom, že programátoři se v páru střídají v psaní kódu. Jeden napíše implementaci a padající test, ten druhů napíše implementaci pro test a další padající test. A takto stále dokola.</p>
 
-<p>V korespondečním Coderetreatu by programátoři nebyli spolu v přímem kontaktu, ale měli by GIT repository (né nutně to musí být GIT) a každý commit by bylo takové vystřídání.</p>
+<p>V korespondenčním Coderetreatu by programátoři nebyli spolu v přímem kontaktu, ale měli by GIT repository (né nutně to musí být GIT) a každý commit by bylo takové vystřídání.</p>
 
 <p>Výhodou je, že spolu máte možnost hovořit čistě přes kód, když se vyvarujete popisným commit messages, instant messagingu a dalším způsobám komunikace.</p>
 
