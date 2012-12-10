@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: programming | MicTech's Blog]]></title>
+  <link href="http://blog.mictech.cz/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://blog.mictech.cz/"/>
+  <updated>2012-12-10T21:46:11+01:00</updated>
+  <id>http://blog.mictech.cz/</id>
+  <author>
+    <name><![CDATA[Michal Těhník]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Correspondence Coderetreat]]></title>
+    <link href="http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat/"/>
+    <updated>2012-12-10T21:28:00+01:00</updated>
+    <id>http://blog.mictech.cz/blog/2012/12/10/correspondence-coderetreat</id>
+    <content type="html"><![CDATA[<h3>Korespondeční Coderetreat</h3>
+
+<hr />
+
+<p>V průběhu sobotního Coderetreatu mě napadla varianta cvičení pro programátory. Jednalo by se o takzvaný korespondeční Coderetreat / TDD Ping Pong.</p>
+
+<p>TDD Ping Pong je založený na tom, že programátoři se v páru střídají v psaní kódu. Jeden napíše implementaci a padající test, ten druhů napíše implementaci pro test a další padající test. A takto stále dokola.</p>
+
+<p>V korespondečním Coderetreatu by programátoři nebyli spolu v přímem kontaktu, ale měli by GIT repository (né nutně to musí být GIT) a každý commit by bylo takové vystřídání.</p>
+
+<p>Výhodou je, že spolu máte možnost hovořit čistě přes kód, když se vyvarujete popisným commit messages, instant messagingu a dalším způsobám komunikace.</p>
+
+<p>Samozřejmně není problém dát si na začátku nějakou challenge<br/>
+-  kód metody na čtyři řádky<br/>
+-  immutable objekty<br/>
+-  žádné návratové hodnoty</p>
+
+<p>Sice nevymažete kód po 45ti minutách, ale můžete si stanovit počet commitů po kterých vymažete kód, resp. smažete celou repository. Optimální číslo by mohlo být 10 - 15 commitů, tj. 10 - 15 vystřídání v páru. Což je zhruba maximální počet, kolikrát jste schopnit to stihnout během jedné session na Coderetreatu.</p>
+
+<p>Důležité je ovšem dodržet tzv. minimální implementaci. Což znamená, že během jednoho commitu nepřepíšete veškerý kód, ale napíšete minimální implementaci, tak aby test prošel a zároveň vytvoříte další jednoduchý test. Zde varuji, aby se toto nezvrhlo v otevřenou válku, kde si vzájemně budete házet klacky pod nohy.</p>
+
+<p>Samozřejmně zde chybí pair programming, ale máte možnost se cvičit s kolegou/kamarádem v TDD a Clean code.</p>
+
+<p>Pokud by měl někdo zájem to zkusit přímo semnou, budu rád. Ozvěte se přes Twitter @MicTech nebo další sociální sítě. Jazyky ideálně C# nebo Ruby, ale nebránim se Jave, JavaScriptu, téměr ničemu.</p>
+
+<p>Případně můžete vytvořit pull request přímo v repository na to určené (C#, VS2012): <a href="https://github.com/MicTech/CorrespondenceCoderetreat">GitHub - Correspondence Coderetreat</a></p>
+]]></content>
+  </entry>
+  
+</feed>
