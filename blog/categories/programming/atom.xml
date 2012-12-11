@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | MicTech's Blog]]></title>
   <link href="http://blog.mictech.cz/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://blog.mictech.cz/"/>
-  <updated>2012-12-10T22:00:45+01:00</updated>
+  <updated>2012-12-11T08:16:38+01:00</updated>
   <id>http://blog.mictech.cz/</id>
   <author>
     <name><![CDATA[Michal Těhník]]></name>
@@ -35,7 +35,7 @@
 
 <p>Důležité je ovšem dodržet tzv. minimální implementaci. Což znamená, že během jednoho commitu nepřepíšete veškerý kód, ale napíšete minimální implementaci, tak aby test prošel a zároveň vytvoříte další jednoduchý test. Zde varuji, aby se toto nezvrhlo v otevřenou válku, kde si vzájemně budete házet klacky pod nohy.</p>
 
-<p>Samozřejmně zde chybí pair programming, ale máte možnost se cvičit s kolegou/kamarádem v TDD a Clean code.</p>
+<p>Samozřejmně zde chybí pair programming, ale máte možnost se cvičit s kolegou/kamarádem v TDD, Refactoringu a čistém kódu.</p>
 
 <p>Pokud by měl někdo zájem to zkusit přímo semnou, budu rád. Ozvěte se přes Twitter @MicTech nebo další sociální sítě. Jazyky ideálně C# nebo Ruby, ale nebránim se Jave, JavaScriptu, téměr ničemu.</p>
 
