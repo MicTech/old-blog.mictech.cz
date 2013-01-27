@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hiring | MicTech's Blog]]></title>
+  <link href="http://blog.mictech.cz/blog/categories/hiring/atom.xml" rel="self"/>
+  <link href="http://blog.mictech.cz/"/>
+  <updated>2013-01-27T22:44:51+01:00</updated>
+  <id>http://blog.mictech.cz/</id>
+  <author>
+    <name><![CDATA[Michal Těhník]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hackathon a Coderetreat jako součást příjímacího řízení]]></title>
+    <link href="http://blog.mictech.cz/blog/2013/01/27/hackathon-a-coderetreat-jako-soucast-prijimaciho-rizeni/"/>
+    <updated>2013-01-27T22:39:00+01:00</updated>
+    <id>http://blog.mictech.cz/blog/2013/01/27/hackathon-a-coderetreat-jako-soucast-prijimaciho-rizeni</id>
+    <content type="html"><![CDATA[<p>Klasická příjímací pohovory nedávají moc možností, jak zjistit jestli člověk dobré ovládá svojí lopatu.</p>
+
+<p>1) HR dostane CV od uchazeče. Zkontroluje jestli zkratky a počet let u nich se shodují se zkratkami u otevřené pozice. Pokud ano, jde uchazeč do dalšího kola.</p>
+
+<p>2) Dále probíhá pohovor, někdy rozdělený do dvou částí. Na technický/telefonický a osobní. Technický je pouze o grilování toho co člověk o sobě nalhal v CV. Osobní pohovor je pak spíše o tom, jestli daný člověk zapadá do firemní kultůry.</p>
+
+<p>Někdy padají na pohovorech otázky na Quicksort, dědičnost, JOINy  nebo znalost knihoven. Což jsou sice pěkné akademičnosti, ale mají nulovou vypovídací hodnotu o tom, jak člověk pracuje.</p>
+
+<p>Podle mě, jednou z věcí která dělá dobrého vývojáře, jsou jeho návyky, nástroje jaké používá a hlavně jakým způsobem. Proto si myslím, že by součástí příjímacího pohovoru mělo být nějaké programování. A proč ne rovnou programování v extrémních podmínkách.</p>
+
+<p>Vždycky trpím, když vidím, jak někdo používá IDE a soubory hledá v adresářové struktůře projektu. I taková drobnost, jako používání tabulátoru pro doplňování názvů v BASHi nebo PowerShellu dokáže zvýšit vaši efektivitu.</p>
+
+<h2>Hackathon</h2>
+
+<p>Možností je několik. Jednou z nich je pozvání uchazeče nebo uchazečů na regulérní firemní hackathon nebo uspořádaní speciálního pro potřeby náboru.</p>
+
+<p>Akce typu Hackathon ukáže několik vlastností.
+* Jak rychle se dokáže člověk adaptovat na nové technologie a prostředí.
+* Jestli je schopen se dostat na stejnou vlnu se zbytkem týmu.
+* Schopnost pracovat pod stresem a zároveň dokončovat svoji práci.</p>
+
+<p>Takový hackathon může být uspořádan například týmem, do kterého by případný zájemce o práci měl nastoupit.</p>
+
+<h2>Coderetreat</h2>
+
+<p>Je zaměřený na čistou práci. Uchazeč bude dopředu upozorněn, aby se seznámil s Game of Life a přinesl si sebou notebook s IDE a testovacím frameworkem.</p>
+
+<p>Dále by následovali 2-3 session. První na oťukání s člověkem se kterým bude párovat. Druhá rovnou test first, tělo metody na maximálně 4 řádky a bez návratových hodnot. Prostě pěkně zostra.</p>
+
+<h2>Code Kata</h2>
+
+<p>Díky Alešovi (<a href="https://twitter.com/alesroubicek/status/294487232457351168">twitter</a>), který mě upozornil ještě na Code Kata. Tady by si uchazeč přinesl pouze vlastní notebook s IDE a testovacím frameworkem. Ukázal by, třeba na projektoru, jak dokáže zpracovat zadanou úlohu, která by mu nebyla předem známa. Ať už by se jednalo o nějakou standartní nebo vlastní. Nedělám si iluze o tom, že programátoři ve velké míře znají Katy a už vůbec, že by si je doma procvičovali.</p>
+
+<hr />
+
+<p>Myšlenkou tohoto je vidět naživo, jak člověk pracuje. Jakým způsobem ovládá svoji lopatu a jestli je schopen párového programování.</p>
+
+<hr />
+
+<p><a href="http://en.wikipedia.org/wiki/Hackathon">Hackathon</a>  <br/>
+<a href="http://coderetreat.org/">Coderetreat</a><br/>
+<a href="http://codekata.pragprog.com/codekata/">Code Kata</a></p>
+]]></content>
+  </entry>
+  
+</feed>
