@@ -4,7 +4,7 @@
   <title><![CDATA[MicTech's Blog]]></title>
   <link href="http://blog.mictech.cz/atom.xml" rel="self"/>
   <link href="http://blog.mictech.cz/"/>
-  <updated>2013-02-15T22:41:28+01:00</updated>
+  <updated>2013-03-03T20:47:43+01:00</updated>
   <id>http://blog.mictech.cz/</id>
   <author>
     <name><![CDATA[Michal Těhník]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Prednáška: Jak byt o trochu lepším vývojářem]]></title>
+    <link href="http://blog.mictech.cz/blog/2013/03/03/prednaska-jak-byt-o-trochu-lepsim-vyvojarem/"/>
+    <updated>2013-03-03T20:42:00+01:00</updated>
+    <id>http://blog.mictech.cz/blog/2013/03/03/prednaska-jak-byt-o-trochu-lepsim-vyvojarem</id>
+    <content type="html"><![CDATA[<p>V úterý 19. února jsem měl přednášku v rámci GeekGroup v Pardubicích. Mluvil jsem o tom, jak být o trochu lepším vývojářem.</p>
+
+<p><a href="http://www.youtube.com/watch?v=xQh_FkcAp74">Záznam</a></p>
+
+<p><a href="https://speakerdeck.com/mictech/jak-byt-o-trochu-lepsim-vyvojarem">Slajdy</a></p>
+
+<h2>Odkazy</h2>
+
+<h3>Psaní všema deseti</h3>
+
+<p><a href="http://phoboslab.org/ztype/">Z-Type</a> <br/>
+<a href="http://10fastfingers.com/">10fastfingers</a></p>
+
+<h3>Clipboard manager</h3>
+
+<p><a href="http://www.nakka.com/soft/clcl/index_eng.html">CLCL - win</a><br/>
+<a href="http://www.clipmenu.com/">ClipMenu - mac</a></p>
+
+<h3>IDE plugins</h3>
+
+<p><a href="http://plugins.jetbrains.com/plugin?pr=webide&amp;pluginId=4455">KeyPromoter - JetBrains IDE</a><br/>
+<a href="http://blogs.itemis.de/wloch/?p=181">KeyPromoter - Eclipse</a><br/>
+<a href="http://www.mousefeed.com/">MouseFeed</a></p>
+
+<p><a href="https://www.shortcutfoo.com/">shortcutFoo</a></p>
+
+<h3>Tools</h3>
+
+<p><a href="http://www.jetbrains.com/">JetBrains</a><br/>
+<a href="http://www.iterm2.com/#/section/home">iTerm 2</a><br/>
+<a href="http://www.zsh.org/">ZSH</a><br/>
+<a href="https://github.com/robbyrussell/oh-my-zsh">Oh My Zsh</a><br/>
+<a href="http://sourceforge.net/projects/console/files/">Console2</a><br/>
+<a href="https://code.google.com/p/conemu-maximus5/">ConEmu</a></p>
+
+<h3>Training</h3>
+
+<p><a href="http://projecteuler.net/">Project Euler</a><br/>
+<a href="http://codekata.pragprog.com/">Code Kata</a><br/>
+<a href="http://coderetreat.org/">Code Retreat</a><br/>
+<a href="http://coderetreat.cz/">Code Retreat CZ</a></p>
+
+<h3>Ostatní</h3>
+
+<p><a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging">Rubber duck debugging</a><br/>
+<a href="http://www.mnm-list.cz/to-jedine-co-muzete-zmenit/">to jediné, co můžete změnit</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hackathon a Coderetreat jako součást příjímacího řízení]]></title>
