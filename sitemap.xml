@@ -25,8 +25,12 @@
         <lastmod>2013-03-03T20:51:18+01:00</lastmod>
     </url>
     <url>
+        <loc>http://blog.mictech.cz/blog/2013/09/27/webexpo-2013/</loc>
+        <lastmod>2013-09-27T13:04:35+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.mictech.cz/blog/archives/</loc>
-        <lastmod>2013-03-03T20:51:18+01:00</lastmod>
+        <lastmod>2013-09-27T13:04:35+02:00</lastmod>
     </url>
     <url>
         <loc>http://blog.mictech.cz/git-resources/</loc>
@@ -34,6 +38,6 @@
     </url>
     <url>
         <loc>http://blog.mictech.cz/</loc>
-        <lastmod>2013-03-03T20:51:18+01:00</lastmod>
+        <lastmod>2013-09-27T13:04:35+02:00</lastmod>
     </url>
 </urlset>
